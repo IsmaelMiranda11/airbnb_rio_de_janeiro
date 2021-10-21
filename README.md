@@ -54,7 +54,7 @@ Through entire jupyter notebook file, markdowns cells and comments discuss part 
 But, in resume:
 1. Yes, there's a tendency and it is related with big events on the city
 2. Yes again. Nationals has a kind of different taste for the city
-3. Something obvious was find: whole place is expensive.   
+3. Something obvious was found: whole place is expensive.   
 
 ## Licensing, Authors, and Acknowledgements<a name="lic"></a>
 
