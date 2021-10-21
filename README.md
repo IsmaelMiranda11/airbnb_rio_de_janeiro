@@ -52,7 +52,7 @@ The file in this repository **AirBNB Rio de Janeiro.ipynb** contains all code wr
 Through entire jupyter notebook file, markdowns cells and comments discuss part of the interesting results. More explanation of findings you can read in this [blog post](nolink).   
 
 But, in resume:
-1. Yes, there's a tendency and it is related whit big events on the city
+1. Yes, there's a tendency and it is related with big events on the city
 2. Yes again. Nationals has a kind of different taste for the city
 3. Something obvious was find: whole place is expensive.   
 
