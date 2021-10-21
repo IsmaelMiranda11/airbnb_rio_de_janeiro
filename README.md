@@ -10,8 +10,8 @@
 
 ## What is necessary <a name="what"></a>
 
-The code was developed in python version 3.8. 
-These libraries will be needed to run properlly:
+The code was developed in python version 3.8.  
+These libraries will be needed to run properly:
 -	Pandas ( pip install pandas )
 -	NumPy ( pip install numpy )
 -	Sklearn ( pip install sklearn )
