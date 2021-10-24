@@ -49,7 +49,7 @@ The file in this repository **AirBNB Rio de Janeiro.ipynb** contains all code wr
 
 ## What I found <a name="results"></a>
 
-Through entire jupyter notebook file, markdowns cells and comments discuss part of the interesting results. More explanation of findings you can read in this [blog post](nolink).   
+Through entire jupyter notebook file, markdowns cells and comments discuss part of the interesting results. More explanation of findings you can read in this [blog post](https://medium.com/@ismaelmiranda11/can-you-guess-what-attracts-more-tourists-to-rio-de-janeiro-b8f7c44cc224).   
 
 But, in resume:
 1. Yes, there's a tendency and it is related with big events on the city
