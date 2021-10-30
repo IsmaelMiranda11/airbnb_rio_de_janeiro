@@ -17,7 +17,7 @@ These libraries will be needed to run properly:
 -	Sklearn ( pip install sklearn )
 -	Langdetect ( pip install langdetect )
 
-## Why I did this <a name="why"></a>
+## Project Motivation <a name="why"></a>
 
 The pandemic is/was a terrible moment for one of the most pleasure human activity: travel.  
 There is a signal that things getting back to normal.  
